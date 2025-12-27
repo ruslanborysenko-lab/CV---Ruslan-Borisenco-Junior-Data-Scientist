@@ -3,8 +3,8 @@
 
 email: ruslanborysenko@gmail.com <br>
 tel: 730 837 748 <br>
-linkedin: https://www.linkedin.com/in/ruslan-borisenco-60a56319b/ <br>
-github: https://github.com/ruslanborysenko-lab
+linkedin: [https://www.linkedin.com/in/ruslan-borisenco-60a56319b/](https://www.linkedin.com/in/ruslan-borisenco-60a56319b/) <br>
+github: [https://github.com/ruslanborysenko-lab](https://github.com/ruslanborysenko-lab)
 
 Junior Data Scientist specializing in end-to-end ML pipeline development, computer vision, NLP, and cloud-based solutions. 
 Experienced in building production-ready AI systems from data exploration through deployment, with focus on MLOps, 
